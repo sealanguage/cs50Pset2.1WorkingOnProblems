@@ -1,4 +1,4 @@
-// map letters to ascii values
+// map letters to ascii numeric values
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>

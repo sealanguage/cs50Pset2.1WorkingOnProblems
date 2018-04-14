@@ -1,4 +1,4 @@
-// I don't know hwo this works
+// I don't know how this works
 #include <cs50.h>
 #include <stdio.h>
 
