@@ -1,3 +1,5 @@
+// lists input letters and ascii values as output
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
