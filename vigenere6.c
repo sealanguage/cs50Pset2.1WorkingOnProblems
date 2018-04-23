@@ -57,6 +57,7 @@ int main(int argc, char *argv[])
     // // for loop converts ascii to numeric value
     for (int i = 0; i < strlen(s); i++)
     {
+        for (int j = 0; j < strlen(argv[1]); j++)
         //add isalpha check here
         if (isalpha(s[i]))
         {
